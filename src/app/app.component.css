@@ -1,0 +1,11 @@
+.container {
+  margin-top: 30px;
+}
+
+input.ng-touched.ng-invalid{
+  border: 1px solid red;
+}
+
+button[type="reset"]{
+  margin-left: 0.5rem;
+}
